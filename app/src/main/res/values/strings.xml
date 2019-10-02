@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="editNomeHint">Digite o nome do produto</string>
+    <string name="editQtdeHint">Quantidade</string>
+    <string name="btnSalvar">SALVAR</string>
+    <string name="btnCadastrar">NOVO ITEM</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Categoria">Categoria
+        <item>Alimentação</item>
+        <item>Esporte</item>
+        <item>Saude e beleza</item>
+        <item>Eletronico</item>
+        <item>Livros</item>
+    </string-array>
+
+</resources>
